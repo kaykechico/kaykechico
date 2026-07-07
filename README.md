@@ -16,7 +16,7 @@ Meu trabalho consiste em identificar tarefas manuais e repetitivas e transformá
 ### Stack
 
 ```
-Python · Playwright · PyMuPDF · PyAutoGUI · Pandas · React · Node.js
+Python · Playwright · PyMuPDF · PyAutoGUI · Pandas
 ```
 
 ### Onde me encontrar
