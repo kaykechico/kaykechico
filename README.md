@@ -19,14 +19,6 @@ Meu trabalho consiste em identificar tarefas manuais e repetitivas e transformá
 Python · Playwright · PyMuPDF · PyAutoGUI · Pandas · React · Node.js
 ```
 
-### Projetos
-
-📌 **[consulta-processual](https://github.com/kaykechico/consulta-processual)** — Aplicação web para consulta de processos pelo número CNJ. React + Node.js + API DataJud.
-
-📌 **[extrator-acordao](https://github.com/kaykechico/extrator-acordao)** — Script Python que extrai texto e números de processo de acórdãos em PDF, consolidando os dados em planilha Excel.
-
----
-
 ### Onde me encontrar
 
 💼 [LinkedIn](https://www.linkedin.com/in/kaykechico)
